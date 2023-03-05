@@ -2325,8 +2325,9 @@ body {
 
 .paragraph{
   width: calc(var(--index) * 30);
-  font-weight:00;
-  margin-left: 1400px;
+  font-weight:400;
+  margin-left:400px;
+  
   font-size: calc(var(--index) * .9);
   margin-top: calc(var(--index) / 1.25);
   transform: var(--article-transform);
